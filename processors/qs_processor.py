@@ -31,8 +31,10 @@ def main():
 
         # Step 2: Select required columns
         print("2. Processing data...")
-        # Rename columns for clarity: Country/Territory is the country, Region is the region, Status is Public/Private
-        df_output = df[["Rank", "Name", "Region", "Status"]].copy()
+        # Use Country/Territory as Region column
+        df_output = df[["Rank", "Name", "Country/Territory", "Status"]].copy()
+        # Rename Country/Territory to Region for output
+        df_output.rename(columns={"Country/Territory": "Region"}, inplace=True)
 
         # Remove any rows with missing critical data
         df_output = df_output.dropna(subset=["Rank", "Name"])

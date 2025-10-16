@@ -3,390 +3,60 @@
     "url": "https://www.topuniversities.com/universities/massachusetts-institute-technology-mit",
     "latitude": 42.3592444,
     "longitude": -71.0931389,
-    "timestamp": "2025-10-16T04:17:52.815681"
+    "timestamp": "2025-10-16T05:04:41.278494"
   },
   "Imperial College London": {
     "url": "https://www.topuniversities.com/universities/imperial-college-london",
     "latitude": 51.4992,
     "longitude": -0.174367,
-    "timestamp": "2025-10-16T04:18:00.490065"
+    "timestamp": "2025-10-16T05:04:52.202898"
   },
   "Stanford University": {
     "url": "https://www.topuniversities.com/universities/stanford-university",
     "latitude": 37.4274745,
     "longitude": -122.169719,
-    "timestamp": "2025-10-16T04:18:10.739803"
+    "timestamp": "2025-10-16T05:04:59.673188"
   },
   "University of Oxford": {
     "url": "https://www.topuniversities.com/universities/university-oxford",
     "latitude": 51.7527556,
     "longitude": -1.266146,
-    "timestamp": "2025-10-16T04:18:19.265310"
+    "timestamp": "2025-10-16T05:05:08.229746"
   },
   "Harvard University": {
     "url": "https://www.topuniversities.com/universities/harvard-university",
     "latitude": 42.3770029,
     "longitude": -71.1166601,
-    "timestamp": "2025-10-16T04:18:27.541450"
+    "timestamp": "2025-10-16T05:05:16.140625"
   },
   "University of Cambridge": {
     "url": "https://www.topuniversities.com/universities/university-cambridge",
     "latitude": 52.2052356,
     "longitude": 0.11705,
-    "timestamp": "2025-10-16T04:18:37.758053"
+    "timestamp": "2025-10-16T05:05:23.515940"
   },
   "ETH Zurich (Swiss Federal Institute of Technology)": {
     "url": "https://www.topuniversities.com/universities/eth-zurich",
     "latitude": 47.3765374,
     "longitude": 8.5480861,
-    "timestamp": "2025-10-16T04:19:59.969813"
+    "timestamp": "2025-10-16T05:05:29.632995"
   },
   "National University of Singapore (NUS)": {
     "url": "https://www.topuniversities.com/universities/national-university-singapore-nus",
     "latitude": 1.2971342,
     "longitude": 103.7777567,
-    "timestamp": "2025-10-16T04:20:07.248970"
+    "timestamp": "2025-10-16T05:05:40.512798"
   },
   "UCL (University College London)": {
     "url": "https://www.topuniversities.com/universities/ucl",
     "latitude": 51.5245592,
     "longitude": -0.1340401,
-    "timestamp": "2025-10-16T04:20:19.045601"
+    "timestamp": "2025-10-16T05:05:48.342145"
   },
   "California Institute of Technology (Caltech)": {
     "url": "https://www.topuniversities.com/universities/california-institute-technology-caltech",
     "latitude": 34.1390112,
     "longitude": -118.1245135,
-    "timestamp": "2025-10-16T04:20:28.761503"
-  },
-  "The University of Hong Kong": {
-    "url": "https://www.topuniversities.com/universities/university-hong-kong",
-    "latitude": 22.2830891,
-    "longitude": 114.1365621,
-    "timestamp": "2025-10-16T04:20:37.257277"
-  },
-  "Nanyang Technological University, Singapore (NTU Singapore)": {
-    "url": "https://www.topuniversities.com/universities/nanyang-technological-university-singapore-ntu-singapore",
-    "latitude": 1.34695,
-    "longitude": 103.688,
-    "timestamp": "2025-10-16T04:20:44.082243"
-  },
-  "University of Chicago": {
-    "url": "https://www.topuniversities.com/universities/university-chicago",
-    "latitude": 41.7895762,
-    "longitude": -87.6009324,
-    "timestamp": "2025-10-16T04:20:53.642261"
-  },
-  "Peking University": {
-    "url": "https://www.topuniversities.com/universities/peking-university",
-    "latitude": 39.9919,
-    "longitude": 116.31,
-    "timestamp": "2025-10-16T04:21:00.219374"
-  },
-  "University of Pennsylvania": {
-    "url": "https://www.topuniversities.com/universities/university-pennsylvania",
-    "latitude": 39.9532908,
-    "longitude": -75.1973311,
-    "timestamp": "2025-10-16T04:21:09.115337"
-  },
-  "Cornell University": {
-    "url": "https://www.topuniversities.com/universities/cornell-university",
-    "latitude": 42.8774685,
-    "longitude": -77.0071906,
-    "timestamp": "2025-10-16T04:21:16.398241"
-  },
-  "Tsinghua University": {
-    "url": "https://www.topuniversities.com/universities/tsinghua-university",
-    "latitude": 1.2999651,
-    "longitude": 103.7865511,
-    "timestamp": "2025-10-16T04:21:25.807639"
-  },
-  "University of California, Berkeley (UCB)": {
-    "url": "https://www.topuniversities.com/universities/university-california-berkeley-ucb",
-    "latitude": 37.8713485,
-    "longitude": -122.260853,
-    "timestamp": "2025-10-16T04:21:34.037769"
-  },
-  "The University of Melbourne": {
-    "url": "https://www.topuniversities.com/universities/university-melbourne",
-    "latitude": -37.8002993,
-    "longitude": 144.9628445,
-    "timestamp": "2025-10-16T04:21:42.122449"
-  },
-  "The University of New South Wales": {
-    "url": "https://www.topuniversities.com/universities/university-new-south-wales-unsw-sydney",
-    "latitude": -33.9161,
-    "longitude": 151.235,
-    "timestamp": "2025-10-16T04:21:50.623909"
-  },
-  "Yale University": {
-    "url": "https://www.topuniversities.com/universities/yale-university",
-    "latitude": 41.3163244,
-    "longitude": -72.9223431,
-    "timestamp": "2025-10-16T04:21:57.615258"
-  },
-  "École Polytechnique Fédérale de Lausanne": {
-    "url": "https://www.topuniversities.com/universities/epfl-ecole-polytechnique-federale-de-lausanne",
-    "latitude": 46.5204,
-    "longitude": 6.56596,
-    "timestamp": "2025-10-16T04:22:05.457736"
-  },
-  "Technical University of Munich": {
-    "url": "https://www.topuniversities.com/universities/technical-university-munich",
-    "latitude": 48.14966,
-    "longitude": 11.5678602,
-    "timestamp": "2025-10-16T04:22:15.089522"
-  },
-  "Johns Hopkins University": {
-    "url": "https://www.topuniversities.com/universities/johns-hopkins-university",
-    "latitude": 39.3299013,
-    "longitude": -76.6205177,
-    "timestamp": "2025-10-16T04:22:23.311248"
-  },
-  "Princeton University": {
-    "url": "https://www.topuniversities.com/universities/princeton-university",
-    "latitude": 40.3467174,
-    "longitude": -74.6568772,
-    "timestamp": "2025-10-16T04:22:31.585595"
-  },
-  "The University of Sydney": {
-    "url": "https://www.topuniversities.com/universities/university-sydney",
-    "latitude": -33.888,
-    "longitude": 151.187,
-    "timestamp": "2025-10-16T04:22:41.910908"
-  },
-  "McGill University": {
-    "url": "https://www.topuniversities.com/universities/mcgill-university",
-    "latitude": 45.5030138,
-    "longitude": -73.5761271,
-    "timestamp": "2025-10-16T04:22:51.433986"
-  },
-  "PSL University": {
-    "url": "https://www.topuniversities.com/universities/universite-psl",
-    "latitude": 48.8434811,
-    "longitude": 2.3447965,
-    "timestamp": "2025-10-16T04:22:59.427724"
-  },
-  "University of Toronto": {
-    "url": "https://www.topuniversities.com/universities/university-toronto",
-    "latitude": 43.6617,
-    "longitude": -79.3967,
-    "timestamp": "2025-10-16T04:23:18.546095"
-  },
-  "Fudan University": {
-    "url": "https://www.topuniversities.com/universities/fudan-university",
-    "latitude": 31.2985,
-    "longitude": 121.501,
-    "timestamp": "2025-10-16T04:23:26.567062"
-  },
-  "King's College London (KCL)": {
-    "url": "https://www.topuniversities.com/universities/kings-college-london",
-    "latitude": 51.5122,
-    "longitude": -0.116497,
-    "timestamp": "2025-10-16T04:23:36.225853"
-  },
-  "Australian National University": {
-    "url": "https://www.topuniversities.com/universities/australian-national-university-anu",
-    "latitude": -35.2776999,
-    "longitude": 149.118527,
-    "timestamp": "2025-10-16T04:23:45.653027"
-  },
-  "The Chinese University of Hong Kong": {
-    "url": "https://www.topuniversities.com/universities/australian-national-university-anu",
-    "latitude": -35.2776999,
-    "longitude": 149.118527,
-    "timestamp": "2025-10-16T04:23:52.493833"
-  },
-  "University of Edinburgh": {
-    "url": "https://www.topuniversities.com/universities/university-edinburgh",
-    "latitude": 55.9222,
-    "longitude": -3.17746,
-    "timestamp": "2025-10-16T04:24:02.869065"
-  },
-  "The University of Manchester": {
-    "url": "https://www.topuniversities.com/universities/university-manchester",
-    "latitude": 53.4668498,
-    "longitude": -2.2338837,
-    "timestamp": "2025-10-16T04:24:13.718952"
-  },
-  "Monash University": {
-    "url": "https://www.topuniversities.com/universities/monash-university",
-    "latitude": -37.9161817,
-    "longitude": 145.1400597,
-    "timestamp": "2025-10-16T04:24:20.583711"
-  },
-  "The University of Tokyo": {
-    "url": "https://www.topuniversities.com/universities/university-tokyo",
-    "latitude": 35.7134,
-    "longitude": 139.762,
-    "timestamp": "2025-10-16T04:24:27.484807"
-  },
-  "Columbia University": {
-    "url": "https://www.topuniversities.com/universities/columbia-university",
-    "latitude": 40.8075355,
-    "longitude": -73.9625727,
-    "timestamp": "2025-10-16T04:24:37.746756"
-  },
-  "Seoul National University": {
-    "url": "https://www.topuniversities.com/universities/seoul-national-university",
-    "latitude": 37.4602626,
-    "longitude": 126.9535979,
-    "timestamp": "2025-10-16T04:24:44.848985"
-  },
-  "University of British Columbia": {
-    "url": "https://www.topuniversities.com/universities/university-british-columbia",
-    "latitude": 49.9399807,
-    "longitude": -119.395521,
-    "timestamp": "2025-10-16T04:24:56.111384"
-  },
-  "Institut Polytechnique de Paris": {
-    "url": "https://www.topuniversities.com/universities/institut-polytechnique-de-paris",
-    "latitude": 48.7190225,
-    "longitude": 2.2215167,
-    "timestamp": "2025-10-16T04:25:06.839373"
-  },
-  "Northwestern University": {
-    "url": "https://www.topuniversities.com/universities/northwestern-university",
-    "latitude": 41.8968,
-    "longitude": -87.618017,
-    "timestamp": "2025-10-16T04:25:13.654383"
-  },
-  "The University of Queensland": {
-    "url": "https://www.topuniversities.com/universities/university-queensland",
-    "latitude": -27.4975028,
-    "longitude": 153.0136905,
-    "timestamp": "2025-10-16T04:25:21.601493"
-  },
-  "The Hong Kong University of Science and Technology": {
-    "url": "https://www.topuniversities.com/universities/hong-kong-university-science-technology",
-    "latitude": 22.337520813121,
-    "longitude": 114.2629594669,
-    "timestamp": "2025-10-16T04:25:31.156065"
-  },
-  "University of Michigan-Ann Arbor": {
-    "url": "https://www.topuniversities.com/universities/university-michigan-ann-arbor",
-    "latitude": 42.2762537,
-    "longitude": -83.7412441,
-    "timestamp": "2025-10-16T04:25:38.742686"
-  },
-  "University of California, Los Angeles (UCLA)": {
-    "url": "https://www.topuniversities.com/universities/university-california-los-angeles-ucla",
-    "latitude": 34.0725988,
-    "longitude": -118.439277,
-    "timestamp": "2025-10-16T04:25:47.348817"
-  },
-  "Delft University of Technology": {
-    "url": "https://www.topuniversities.com/universities/delft-university-technology",
-    "latitude": 51.9981967,
-    "longitude": 4.3784141,
-    "timestamp": "2025-10-16T04:25:53.766312"
-  },
-  "Shanghai Jiao Tong University": {
-    "url": "https://www.topuniversities.com/universities/shanghai-jiao-tong-university",
-    "latitude": 31.1898,
-    "longitude": 121.443,
-    "timestamp": "2025-10-16T04:26:01.223298"
-  },
-  "Zhejiang University": {
-    "url": "https://www.topuniversities.com/universities/zhejiang-university",
-    "latitude": 30.3086844,
-    "longitude": 120.0864995,
-    "timestamp": "2025-10-16T04:26:10.786615"
-  },
-  "Yonsei University": {
-    "url": "https://www.topuniversities.com/universities/yonsei-university",
-    "latitude": 37.5657426,
-    "longitude": 126.9033058,
-    "timestamp": "2025-10-16T04:26:20.486549"
-  },
-  "University of Bristol": {
-    "url": "https://www.topuniversities.com/universities/university-bristol",
-    "latitude": 51.4590682,
-    "longitude": -2.6033425,
-    "timestamp": "2025-10-16T04:26:31.887308"
-  },
-  "Carnegie Mellon University": {
-    "url": "https://www.topuniversities.com/universities/carnegie-mellon-university",
-    "latitude": 40.4441647,
-    "longitude": -79.9433725,
-    "timestamp": "2025-10-16T04:27:40.071823"
-  },
-  "The University of Amsterdam": {
-    "url": "https://www.topuniversities.com/universities/university-amsterdam",
-    "latitude": 52.3692985,
-    "longitude": 4.8960039,
-    "timestamp": "2025-10-16T04:27:47.663568"
-  },
-  "The Hong Kong Polytechnic University": {
-    "url": "https://www.topuniversities.com/universities/hong-kong-polytechnic-university",
-    "latitude": 22.3045719,
-    "longitude": 114.1795642,
-    "timestamp": "2025-10-16T04:35:54.140556"
-  },
-  "New York University (NYU)": {
-    "url": "https://www.topuniversities.com/universities/new-york-university-nyu",
-    "latitude": 24.5238948,
-    "longitude": 54.4345558,
-    "timestamp": "2025-10-16T04:42:01.121605"
-  },
-  "London School of Economics and Political Science (LSE)": {
-    "url": "https://www.topuniversities.com/universities/london-school-economics-political-science-lse",
-    "latitude": 51.5146,
-    "longitude": -0.111196,
-    "timestamp": "2025-10-16T04:42:09.740557"
-  },
-  "Kyoto University": {
-    "url": "https://www.topuniversities.com/universities/kyoto-university",
-    "latitude": 35.0262,
-    "longitude": 135.781,
-    "timestamp": "2025-10-16T04:43:29.710881"
-  },
-  "Ludwig-Maximilians-Universität München": {
-    "url": "https://www.topuniversities.com/universities/ludwig-maximilians-universitat-munchen",
-    "latitude": 48.1509185,
-    "longitude": 11.5798609,
-    "timestamp": "2025-10-16T04:43:37.004813"
-  },
-  "Universiti Malaya (UM)": {
-    "url": "https://www.topuniversities.com/universities/universiti-malaya-um",
-    "latitude": 3.1201011,
-    "longitude": 101.6543993,
-    "timestamp": "2025-10-16T04:43:44.137972"
-  },
-  "KU Leuven": {
-    "url": "https://www.topuniversities.com/universities/ku-leuven",
-    "latitude": 50.878,
-    "longitude": 4.70026,
-    "timestamp": "2025-10-16T04:44:33.356051"
-  },
-  "Korea University": {
-    "url": "https://www.topuniversities.com/universities/korea-university",
-    "latitude": 37.5900117,
-    "longitude": 127.0318586,
-    "timestamp": "2025-10-16T04:44:41.340017"
-  },
-  "Duke University": {
-    "url": "https://www.topuniversities.com/universities/duke-university",
-    "latitude": 36.0052109,
-    "longitude": -78.9284706,
-    "timestamp": "2025-10-16T04:44:50.103602"
-  },
-  "City University of Hong Kong": {
-    "url": "https://www.topuniversities.com/universities/city-university-hong-kong-cityuhk",
-    "latitude": 22.3370342,
-    "longitude": 114.17272,
-    "timestamp": "2025-10-16T04:44:59.308692"
-  },
-  "National Taiwan University (NTU)": {
-    "url": "https://www.topuniversities.com/universities/national-taiwan-university-ntu",
-    "latitude": 25.0234007,
-    "longitude": 121.5250708,
-    "timestamp": "2025-10-16T04:46:17.307518"
-  },
-  "The University of Auckland": {
-    "url": "https://www.topuniversities.com/universities/university-auckland",
-    "latitude": -36.851756452025,
-    "longitude": 174.76899632544,
-    "timestamp": "2025-10-16T04:56:01.932366"
+    "timestamp": "2025-10-16T05:05:56.216219"
   }
 }
