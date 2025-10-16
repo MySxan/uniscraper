@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 .Python
 
-data/*.csv
+old/data/*.csv
 
 .DS_Store
 Thumbs.db
