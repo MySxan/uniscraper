@@ -9,3 +9,708 @@ Rank,Name,Region,Status,Latitude,Longitude
 8,National University of Singapore (NUS),Singapore,Public,1.2971342,103.7777567
 9,UCL (University College London),United Kingdom,Public,51.5245592,-0.1340401
 10,California Institute of Technology (Caltech),United States of America,Private not for Profit,34.1390112,-118.1245135
+11,The University of Hong Kong,"Hong Kong SAR, China",Public,22.2830891,114.1365621
+12,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,Public,1.34695,103.688
+13,University of Chicago,United States of America,Private not for Profit,41.7895762,-87.6009324
+14,Peking University,China (Mainland),Public,39.9919,116.31
+15,University of Pennsylvania,United States of America,Private not for Profit,39.9532908,-75.1973311
+16,Cornell University,United States of America,Private not for Profit,42.8774685,-77.0071906
+17,Tsinghua University,China (Mainland),Public,1.2999651,103.7865511
+17,"University of California, Berkeley (UCB)",United States of America,Public,37.8713485,-122.260853
+19,The University of Melbourne,Australia,Public,-37.8002993,144.9628445
+20,The University of New South Wales,Australia,Public,-33.9161,151.235
+21,Yale University,United States of America,Private not for Profit,41.3163244,-72.9223431
+22,École Polytechnique Fédérale de Lausanne,Switzerland,Public,46.5204,6.56596
+22,Technical University of Munich,Germany,Public,48.14966,11.5678602
+24,Johns Hopkins University,United States of America,Private not for Profit,39.3299013,-76.6205177
+25,Princeton University,United States of America,Private not for Profit,40.3467174,-74.6568772
+25,The University of Sydney,Australia,Public,-33.888,151.187
+27,McGill University,Canada,Public,45.5030138,-73.5761271
+28,PSL University,France,Public,48.8434811,2.3447965
+29,University of Toronto,Canada,Public,43.6617,-79.3967
+30,Fudan University,China (Mainland),Public,31.2985,121.501
+31,King's College London (KCL),United Kingdom,Public,51.5122,-0.116497
+32,Australian National University,Australia,Public,-35.2776999,149.118527
+32,The Chinese University of Hong Kong,"Hong Kong SAR, China",Public,-35.2776999,149.118527
+34,University of Edinburgh,United Kingdom,Public,55.9222,-3.17746
+35,The University of Manchester,United Kingdom,Public,53.4668498,-2.2338837
+36,Monash University,Australia,Public,-37.9161817,145.1400597
+36,The University of Tokyo,Japan,Public,35.7134,139.762
+38,Columbia University,United States of America,Private not for Profit,40.8075355,-73.9625727
+38,Seoul National University,Republic of Korea,Public,37.4602626,126.9535979
+40,University of British Columbia,Canada,Public,49.9399807,-119.395521
+41,Institut Polytechnique de Paris,France,Public,48.7190225,2.2215167
+42,Northwestern University,United States of America,Private not for Profit,41.8968,-87.618017
+42,The University of Queensland,Australia,Public,-27.4975028,153.0136905
+44,The Hong Kong University of Science and Technology,"Hong Kong SAR, China",Public,22.337520813121,114.2629594669
+45,University of Michigan-Ann Arbor,United States of America,Public,42.2762537,-83.7412441
+46,"University of California, Los Angeles (UCLA)",United States of America,Public,34.0725988,-118.439277
+47,Delft University of Technology,Netherlands,Public,51.9981967,4.3784141
+47,Shanghai Jiao Tong University,China (Mainland),Public,31.1898,121.443
+49,Zhejiang University,China (Mainland),Public,30.3086844,120.0864995
+50,Yonsei University,Republic of Korea,Private not for Profit,37.5657426,126.9033058
+51,University of Bristol,United Kingdom,Public,51.4590682,-2.6033425
+52,Carnegie Mellon University,United States of America,Private not for Profit,40.4441647,-79.9433725
+53,The University of Amsterdam,Netherlands,Public,52.3692985,4.8960039
+54,The Hong Kong Polytechnic University,"Hong Kong SAR, China",Public,22.3045719,114.1795642
+55,New York University (NYU),United States of America,Private not for Profit,24.5238948,54.4345558
+56,London School of Economics and Political Science (LSE),United Kingdom,Public,51.5146,-0.111196
+57,Kyoto University,Japan,Public,35.0262,135.781
+58,Ludwig-Maximilians-Universität München,Germany,Public,48.1509185,11.5798609
+58,Universiti Malaya (UM),Malaysia,Public,3.1201011,101.6543993
+60,KU Leuven,Belgium,Public,50.878,4.70026
+61,Korea University,Republic of Korea,Private not for Profit,37.5900117,127.0318586
+62,Duke University,United States of America,Private not for Profit,36.0052109,-78.9284706
+63,City University of Hong Kong,"Hong Kong SAR, China",Public,22.3370342,114.17272
+63,National Taiwan University (NTU),Taiwan,Public,25.0234007,121.5250708
+65,The University of Auckland,New Zealand,Public,-36.851756452025,174.76899632544
+66,"University of California, San Diego (UCSD)",United States of America,Public,32.8824069,-117.2348172
+67,King Fahd University of Petroleum & Minerals,Saudi Arabia,Public,26.3070624,50.1458938
+68,University of Texas at Austin,United States of America,Public,30.2849185,-97.7340567
+69,Brown University,United States of America,Private not for Profit,41.8267718,-71.4025482
+70,Université Paris-Saclay,France,Public,48.7086184,2.1640189
+70,University of Illinois at Urbana-Champaign,United States of America,Public,40.102019420867,-88.227709316455
+72,Lund University,Sweden,Public,55.7059,13.1933
+72,Sorbonne University (merged from Paris IV & UPMC),France,Public,55.7059,13.1933
+74,The University of Warwick,United Kingdom,Public,52.3860241,-1.5649432
+75,"Trinity College Dublin, The University of Dublin",Ireland,Public,53.344353724147,-6.2544734814453
+76,University of Birmingham,United Kingdom,Public,25.1236284,55.4116064
+77,The University of Western Australia,Australia,Public,-31.9789061,115.8180721
+78,KTH Royal Institute of Technology,Sweden,Public,59.3462,18.0725
+79,University of Glasgow,United Kingdom,Public,55.8724,-4.28885
+80,Ruprecht-Karls-Universität Heidelberg,Germany,Public,49.4112774,8.7061792
+81,University of Washington,United States of America,Public,47.654720075959,-122.30241651423
+82,Adelaide University,Australia,,-34.9211946,138.6053204
+82,Pennsylvania State University,United States of America,Public,40.8147955,-77.8653126
+84,Universidad de Buenos Aires,Argentina,Public,-34.5997,-58.3731
+85,Tokyo Institute of Technology,Japan,Public,35.6045,139.684
+86,University of Leeds,United Kingdom,Public,53.8089,-1.55281
+87,University of Southampton,United Kingdom,Public,50.934,-1.39631
+88,Boston University,United States of America,Private not for Profit,42.3499009,-71.1004627
+88,Freie Universität Berlin,Germany,Public,42.3499009,-71.1004627
+88,Purdue University,United States of America,Public,40.428246,-86.9143911
+91,The University of Osaka,Japan,Public,34.8194,135.528
+92,The University of Sheffield,United Kingdom,Public,53.3826298,-1.488063
+93,Uppsala University,Sweden,Public,59.8576,17.6295
+94,Durham University,United Kingdom,Public,54.7649859,-1.5782029
+94,University of Alberta,Canada,Public,53.5232189,-113.5263186
+96,University of Technology Sydney,Australia,Public,-33.8802132,151.2020483
+97,The University of Nottingham,United Kingdom,Public,52.9443,-1.19156
+98,Karlsruhe Institute of Technology (KIT),Germany,Public,49.091741,8.4283849
+98,Politecnico di Milano,Italy,Public,45.4775,9.22543
+100,University of Zurich (UZH),Switzerland,Public,47.3752,8.54828
+101,University of Copenhagen,Denmark,Public,55.680220737572,12.572217260852
+102,Pohang University of Science And Technology (POSTECH),Republic of Korea,Private not for Profit,36.019,129.343
+103,Nanjing University,China (Mainland),Public,32.0555,118.78
+103,Utrecht University,Netherlands,Public,51.4989236,3.6110654
+105,Lomonosov Moscow State University,Russian Federation,Public,55.7028,37.5306
+105,Rheinisch-Westfälische Technische Hochschule Aachen,Germany,Public,55.7028,37.5306
+107,Technical University of Denmark,Denmark,Public,55.7855742,12.521381
+108,Universidade de São Paulo (USP),Brazil,Public,-23.5315983,-46.7418047
+109,Tohoku University,Japan,Public,38.2564156,140.8393339
+110,Queen Mary University of London (QMUL),United Kingdom,Public,51.5226,-0.0410395
+110,University of Wisconsin-Madison,United States of America,Public,43.076592,-89.4124875
+112,Qatar University,Qatar,Public,25.2854473,51.5310398
+113,University of St Andrews,United Kingdom,Public,56.3417136,-2.7942674
+114,Aalto University,Finland,Public,60.1862002,24.8283084
+114,"University of California, Davis",United States of America,Public,38.5409093,-121.7462685
+116,Pontificia Universidad Católica de Chile,Chile,Private not for Profit,-33.6227,-70.7272
+116,University of Helsinki,Finland,Public,60.1694509,24.9495854
+118,University College Dublin,Ireland,Public,53.3052603,-6.2168703
+119,Leiden University,Netherlands,Public,52.1571485,4.485209
+119,Rice University,United States of America,Private not for Profit,29.717561326159,-95.401857048718
+119,University of Oslo,Norway,Public,59.9219,10.7334
+119,University of Waterloo,Canada,Public,43.4717,-80.5432
+123,Georgia Institute of Technology,United States of America,Public,33.775372906133,-84.396107770947
+123,Indian Institute of Technology Delhi (IITD),India,Public,28.6353,77.225
+125,RMIT University,Australia,Public,-37.809286,144.9644092
+126,Sungkyunkwan University,Republic of Korea,Private not for Profit,37.588227,126.993606
+126,Universiti Kebangsaan Malaysia (UKM),Malaysia,Public,2.9304049492032,101.77749914548
+128,Sapienza University of Rome,Italy,Public,41.9019,12.5121
+129,Indian Institute of Technology Bombay (IITB),India,Public,19.1334302,72.9132679
+130,Humboldt-Universität zu Berlin,Germany,Public,52.5357,13.3759
+131,Aarhus University,Denmark,Public,56.1701008,10.201799
+132,University of Bath,United Kingdom,Public,51.3782228,-2.3263987
+132,University of Science and Technology of China,China (Mainland),Public,31.8658,117.287
+134,Universiti Putra Malaysia (UPM),Malaysia,Public,2.9997269635889,101.7131880231
+134,Universiti Sains Malaysia (USM),Malaysia,Public,5.2630392,100.2647643
+136,Universidad Nacional Autónoma de México (UNAM),Mexico,Public,19.3289,-99.1872
+137,Newcastle University,United Kingdom,Public,54.9791871,-1.6146608
+138,Alma Mater Studiorum - University of Bologna,Italy,Public,44.4984,11.3494
+138,Macquarie University,Australia,Public,44.4984,11.3494
+140,Eindhoven University of Technology,Netherlands,Public,34.0489281,-111.0937311
+140,Erasmus University Rotterdam,Netherlands,Public,51.9111204,4.4669234
+140,"University of North Carolina, Chapel Hill",United States of America,Public,34.0489281,-111.0937311
+143,King Saud University,Saudi Arabia,Public,24.7481,46.8617
+144,Texas A&M University,United States of America,Public,30.6186625,-96.3364251
+145,Technische Universität Berlin,Germany,Public,52.5135,13.3261
+146,University of Southern California,United States of America,Private not for Profit,34.0598961,-118.2066124
+147,Stockholm University,Sweden,Public,59.369925,18.0476492
+147,University of Groningen,Netherlands,Public,53.2152346,6.5546536
+147,University of Liverpool,United Kingdom,Public,53.405782,-2.967047
+150,University of Cape Town,South Africa,Public,-33.9372,18.5191
+151,Western University,Canada,Public,43.009500498983,-81.273690443994
+152,University of Vienna,Austria,Public,48.2130573,16.3606723
+153,Universiti Teknologi Malaysia (UTM),Malaysia,Public,1.55274,103.642
+153,Wageningen University & Research,Netherlands,Public,51.9664,5.65831
+155,University of Exeter,United Kingdom,Public,50.7353274,-3.5350341
+155,University of Geneva,Switzerland,Public,46.1958833,6.1365102
+157,Lancaster University,United Kingdom,Public,54.0104286,-2.7864465
+158,University of Basel,Switzerland,Public,47.5585,7.58387
+159,Hanyang University,Republic of Korea,Private not for Profit,37.5665,126.978
+160,University of Barcelona,Spain,Public,41.3520453,2.1087691
+161,Michigan State University,United States of America,Public,42.7201803,-84.4859127
+162,Ghent University,Belgium,Public,51.0678,3.72909
+163,King Abdul Aziz University (KAU),Saudi Arabia,Public,21.5435,39.173
+164,Nagoya University,Japan,Public,35.1546,136.962
+165,Chalmers University of Technology,Sweden,Private not for Profit,57.6897235,11.9740777
+166,Al-Farabi Kazakh National University,Kazakhstan,Public,43.2252602,76.9225805
+167,Washington University in St. Louis,United States of America,Private not for Profit,38.6482446,-90.3049416
+168,University of Montreal,Canada,Public,45.5060484,-73.614694
+169,University of York,United Kingdom,Public,53.9461089,-1.0517718
+170,Hokkaido University,Japan,Public,43.0714,141.353
+170,Kyushu University,Japan,Public,33.5957309,130.2184937
+172,Universitat Autónoma de Barcelona,Spain,Public,41.5042,2.09994
+173,Arizona State University,United States of America,Public,33.4169629,-111.9362888
+173,McMaster University,Canada,Public,43.2613,-79.9196
+173,Universidad de Chile,Chile,Public,-33.4442,-70.6508
+176,National Tsing Hua University,Taiwan,Public,24.8039,120.965
+177,Khalifa University of Science and Technology,United Arab Emirates,Public,24.4473556,54.3949088
+177,Tongji University,China (Mainland),Public,31.2837,121.502
+179,"University of California, Santa Barbara (UCSB)",United States of America,Public,34.4139629,-119.848947
+180,Indian Institute of Technology Madras (IITM),India,Public,13.0601,80.2495
+181,Cardiff University,United Kingdom,Public,51.4889238,-3.1797798
+182,Emory University,United States of America,Private not for Profit,33.79864,-84.3094721
+183,Curtin University,Australia,Public,-32.0012929,115.887358
+184,University of Bern,Switzerland,Public,46.9498,7.43711
+184,University of Wollongong,Australia,Public,-34.4049,150.879
+186,Wuhan University,China (Mainland),Public,30.5405,114.362
+187,Tecnológico de Monterrey (ITESM),Mexico,Private not for Profit,40.4434484,-3.7235659
+187,University Complutense Madrid,Spain,Public,40.4434484,-3.7235659
+189,UNIVERSITAS INDONESIA,Indonesia,Public,-6.35413,106.838
+190,Ohio State University,United States of America,Public,40.775025,-81.923104
+191,"Queen's University, Ontario",Canada,Public,44.2263,-76.4938
+191,Université Catholique de Louvain (UCL),Belgium,Private not for Profit,44.2263,-76.4938
+193,Universität Hamburg,Germany,Public,53.5655644,9.9844375
+194,University of Reading,United Kingdom,Public,51.5631112,-0.8825379
+194,Vrije Universiteit Amsterdam,Netherlands,Public,52.3337568,4.8657199
+196,Waseda University,Japan,Private not for Profit,35.7272267,139.5626917
+197,University of Otago,New Zealand,Public,-36.8559376,174.7615964
+197,Vienna University of Technology,Austria,Public,48.19887,16.367166
+199,National Yang Ming Chiao Tung University,Taiwan,Public,24.7868862,120.9974969
+199,Queen's University Belfast,United Kingdom,Public,54.5844087,-5.9340494
+201,Universität Freiburg,Germany,Public,47.994361873683,7.8437168385925
+202,University of Gothenburg,Sweden,Public,57.6983,11.9717
+203,National Cheng Kung University (NCKU),Taiwan,Public,23.0059,120.182
+203,University of Twente,Netherlands,Public,52.2411858,6.8535754
+205,Ecole Normale Supérieure de Lyon,France,Public,45.7298161,4.8271593
+206,Universidad Autónoma de Madrid,Spain,Public,40.5438425,-3.7001859
+207,Deakin University,Australia,Public,-37.8493578,145.1148984
+207,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,Public,50.7341,7.10187
+207,"University of Maryland, College Park",United States of America,Public,38.9869183,-76.9425543
+210,University of Minnesota (System),United States of America,Public,46.8170318,-92.0844331
+211,University of Calgary,Canada,Public,51.0463832,-114.0820407
+212,Universidad de Los Andes Colombia,Colombia,Private not for Profit,4.601363,-74.0661
+212,University of Florida,United States of America,Public,29.645369,-82.3480338
+212,University of Lausanne,Switzerland,Public,46.5225,6.57944
+215,Eberhard Karls Universität Tübingen,Germany,Public,48.5296,9.06843
+215,Indian Institute of Technology Kharagpur (IITKGP),India,Public,48.5296,9.06843
+215,Keio University,Japan,Private not for Profit,35.5527031,139.6508773
+218,Technische Universität Dresden,Germany,Public,51.027065,13.7281657
+219,Indian Institute of Science (IISc) Bangalore,India,Public,13.0218597,77.5671423
+219,University of Ottawa,Canada,Public,45.423,-75.6835
+221,Chulalongkorn University,Thailand,Public,13.7384,100.532
+222,Indian Institute of Technology Kanpur (IITK),India,Public,26.5114,80.2349
+223,Tel Aviv University,Israel,Public,32.1066,34.7973
+224,Universitas Gadjah Mada,Indonesia,Public,-7.7713847,110.3774998
+225,Loughborough University,United Kingdom,Public,52.7679306,-1.2227527
+226,Queensland University of Technology,Australia,Public,-27.477617,153.0302635
+227,The University of Newcastle,Australia,Public,-33.4284216,151.3420988
+227,Université Libre de Bruxelles (ULB),Belgium,Public,-33.4284216,151.3420988
+229,United Arab Emirates University,United Arab Emirates,Public,24.200588,55.676034
+230,Massey University,New Zealand,Public,-40.3834753,175.6145366
+230,University of Lisbon,Portugal,Public,38.7528175,-9.1561793
+232,Universität Erlangen-Nürnberg,Germany,Public,49.5979,11.0044
+233,La Trobe University,Australia,Public,-37.7206671,145.048414
+233,Universidade Estadual de Campinas (Unicamp),Brazil,Public,-22.8184393,-47.0647206
+233,University of Padova,Italy,Public,-37.7206671,145.048414
+236,University of Rochester,United States of America,Private not for Profit,43.12954717536,-77.630577247607
+237,American University of Beirut (AUB),Lebanon,Private not for Profit,33.9022,35.4781
+237,University of Porto,Portugal,Public,41.146925400451,-8.6156785279083
+239,Maastricht University,Netherlands,Public,50.8471,5.68667
+240,Hebrew University of Jerusalem,Israel,Public,40.6331,-89.3985
+240,Victoria University of Wellington,New Zealand,Public,-41.2895414,174.7673659
+242,Politecnico di Torino,Italy,Public,45.0629419,7.6610682
+243,Georg-August-Universität Göttingen,Germany,Public,51.540418179864,9.9365595243286
+244,Hamad Bin Khalifa University,Qatar,Public,25.2854473,51.5310398
+244,Hong Kong Baptist University,"Hong Kong SAR, China",Public,22.3386388,114.1819316
+246,University College Cork,Ireland,Public,51.8922,-8.49286
+247,Beijing Normal University,China (Mainland),Public,39.9629,116.367
+247,Dartmouth College,United States of America,Private not for Profit,43.7044406,-72.2886935
+247,"University of Massachusetts, Amherst",United States of America,Public,39.9629,116.367
+250,Vanderbilt University,United States of America,Private not for Profit,36.1482093,-86.8049859
+251,Universiti Teknologi Petronas (UTP),Malaysia,Private not for Profit,4.3836424,100.971438
+251,University of Strathclyde,United Kingdom,Public,55.8612,-4.24235
+253,Taylor's University (Malaysia),Malaysia,Private for Profit,3.06469,101.616
+253,Technische Universität Darmstadt,Germany,Public,3.06469,101.616
+255,Bandung Institute of Technology (ITB),Indonesia,Public,-6.9274845165932,107.76926497418
+256,Harbin Institute of Technology,China (Mainland),Public,45.747,126.633
+257,Tianjin University,China (Mainland),Public,39.11,117.175
+257,Université Paris 1 Panthéon-Sorbonne,France,Public,48.8435,2.35183
+259,Beijing Institute of Technology,China (Mainland),Public,39.9599,116.322
+259,Universidad Nacional de Colombia,Colombia,Public,4.6381938,-74.0840464
+261,University of Canterbury,New Zealand,Public,-43.5224836,172.5794354
+262,University of Aberdeen,United Kingdom,,57.16476,-2.1015257
+262,University of Navarra,Spain,Private not for Profit,42.818,-1.64421
+262,University of Surrey,United Kingdom,Public,51.2443,-0.59414
+265,Charles University,Czechia,Public,50.0867111,14.435404
+265,Universitat Pompeu Fabra,Spain,Public,50.0867111,14.435404
+267,Norwegian University of Science And Technology,Norway,Public,63.4192396,10.402362
+268,Griffith University,Australia,Public,-27.5531,153.055
+269,Middle East Technical University,Türkiye,Public,39.8914,32.7847
+269,UCSI University,Malaysia,Private for Profit,3.0799621,101.7335176
+271,University of Warsaw,Poland,Public,52.2204,21.0105
+272,American University of Sharjah (AUS),United Arab Emirates,Private not for Profit,25.3100089,55.4927627
+272,North Carolina State University,United States of America,Public,35.772538014731,-78.673383288824
+272,Universität zu Köln,Germany,Public,25.3100089,55.4927627
+275,University of Virginia,United States of America,Public,38.0335529,-78.5079772
+276,Sun Yat-sen University,China (Mainland),Public,23.100067,113.295254
+276,University of Milan,Italy,Public,45.4601435,9.1945843
+278,University of Sussex,United Kingdom,Public,50.864268,-0.0865978
+279,Radboud University Nijmegen,Netherlands,Public,51.8166754,5.8649772
+280,University of Antwerp,Belgium,Public,51.2224479,4.4101059
+281,University of Pittsburgh,United States of America,Public,41.9453234,-78.6711081
+281,University of Waikato,New Zealand,Public,-37.7889,175.317
+283,Dalhousie University,Canada,Public,44.6370436,-63.5956263
+284,University of Galway / Ollscoil na Gaillimhe,Ireland,Public,53.2809,-9.06425
+285,Georgetown University,United States of America,Private not for Profit,38.9073,-77.0734
+285,University of Macau,"Macao SAR, China",Public,22.130002,113.5457795
+287,Heriot-Watt University,United Kingdom,Public,55.9092,-3.32
+287,Universitas Airlangga,Indonesia,Public,-7.2648061,112.7585836
+287,University of Arizona,United States of America,Public,-7.2648061,112.7585836
+287,University of Bergen,Norway,Public,60.3845,5.3331
+291,University of The Witwatersrand,South Africa,Public,-26.1908,28.0303
+292,Swansea University,United Kingdom,Public,51.6095796,-3.9806644
+293,"University of California, Irvine",United States of America,Public,33.6471239,-117.8421325
+294,Case Western Reserve University,United States of America,Private not for Profit,41.5044496,-81.6093372
+294,Swinburne University of Technology,Australia,Public,-37.800427,145.2862057
+294,University of Notre Dame,United States of America,Private not for Profit,41.705381417104,-86.2357012021
+294,Vrije Universiteit Brussel (VUB),Belgium,Public,50.8222329,4.3969074
+298,Istanbul Technical University,Türkiye,Public,41.1022431,29.0200389
+299,University of Colorado Boulder,United States of America,Public,40.007581,-105.2659417
+300,Université Paris Cité,France,Public,48.8519358,2.3401337
+301,Universidad Carlos III de Madrid,Spain,Public,40.3151,-3.7272
+302,Stellenbosch University,South Africa,Public,-33.9310607,18.8666991
+303,Jagiellonian University,Poland,Public,50.0604,19.9339
+303,University of Southern Denmark,Denmark,Public,50.0604,19.9339
+305,Xi'an Jiaotong University,China (Mainland),Public,34.2181,108.942
+306,Aalborg University,Denmark,Public,57.015039,9.986832
+306,Indiana University Bloomington,United States of America,Public,39.1754487,-86.512627
+308,Simon Fraser University,Canada,Public,49.2800145,-122.9200592
+308,University of Johannesburg,South Africa,Public,-26.1893,28.0133
+310,"City St George’s, University of London",United Kingdom,,51.5279719,-0.1024624
+310,Linköping University,Sweden,Public,58.4006,15.5756
+310,Ulsan National Institute of Science and Technology,Republic of Korea,Public,51.5279719,-0.1024624
+310,Universität Stuttgart,Germany,Public,48.783,9.17507
+314,University of Miami,United States of America,Private not for Profit,25.719199790295,-80.277117679099
+314,University of Tasmania,Australia,Public,-42.9124,147.339
+316,Goethe Universität Frankfurt am Main,Germany,Public,50.127714,8.66742
+317,L.N. Gumilyov Eurasian National University,Kazakhstan,Public,51.157963,71.4674171
+317,Universidade Federal do Rio de Janeiro,Brazil,Public,-22.632864233652,-43.285956789164
+319,Huazhong University of Science and Technology,China (Mainland),Public,30.5932,114.305
+320,Bauman Moscow State Technical University,Russian Federation,Public,54.508041,36.247939
+321,Université Grenoble Alpes,France,Public,44.9337311,4.9031133
+322,University of Tehran,Iran (Islamic Republic of),Public,35.6971,51.3204
+323,Koc University,Türkiye,Private not for Profit,41.2051,29.0728
+324,Sichuan University,China (Mainland),Public,30.641119797801,104.06655013561
+324,University of Jordan,Jordan,Public,32.0071911,35.8740633
+326,University of Leicester,United Kingdom,Public,52.620571,-1.1105367
+327,Universidade Nova de Lisboa,Portugal,Public,38.7337,-9.16041
+328,Rutgers University – New Brunswick,United States of America,Public,40.5026982,-74.4503687
+328,University of Delhi,India,Public,28.5845,77.1636
+328,University of Sharjah,United Arab Emirates,Private not for Profit,25.2867708,55.4783714
+331,Kyung Hee University,Republic of Korea,Private not for Profit,37.597147027307,127.05172418109
+331,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),Kazakhstan,Public,37.597147027307,127.05172418109
+333,York University,Canada,Public,43.7722,-79.5034
+334,Indian Institute of Technology Guwahati (IITG),India,Public,26.194,91.6931
+334,Sultan Qaboos University,Oman,Public,23.58589,58.4059227
+334,Tufts University,United States of America,Private not for Profit,42.3497924,-71.0647265
+334,Universidad Politécnica de Madrid,Spain,Public,26.194,91.6931
+334,University of Illinois Chicago (UIC),United States of America,Public,41.8748796,-87.6580882
+339,Indian Institute of Technology Roorkee (IITR),India,Public,29.8594,77.8947
+339,Shandong University,China (Mainland),Public,36.6546,117.047
+341,Xiamen University,China (Mainland),Public,24.4389,118.098
+342,University of Oulu,Finland,Public,65.0593,25.4665
+343,Southern University of Science and Technology (SUSTech),China (Mainland),Public,22.590044,113.978682
+343,University of Pisa,Italy,Public,43.7167235,10.3988593
+345,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,Public,25.0138,121.541
+345,Pontificia Universidad Católica del Perú (PUCP),Peru,Private not for Profit,25.0138,121.541
+347,Cairo University,Egypt,Public,30.021,31.2065
+347,Tilburg University,Netherlands,Public,51.5639249,5.0434446
+347,University of Coimbra,Portugal,Public,40.2077877,-8.4255138999999
+350,Technion - Israel Institute of Technology,Israel,Public,40.6331,-89.3985
+350,Universität Innsbruck,Austria,Public,47.2625,11.3841
+350,University of Münster,Germany,Public,51.96377,7.61319
+350,University of Tsukuba,Japan,Public,36.0356,140.074
+354,Quaid-i-azam University,Pakistan,Public,33.6999267,73.0459841
+355,Nankai University,China (Mainland),Public,39.1039,117.174
+355,National Technical University of Athens,Greece,Public,37.987929,23.731798
+355,Università degli Studi di Roma - Tor Vergata,Italy,Public,39.1039,117.174
+358,George Washington University,United States of America,Private not for Profit,38.8999317,-77.0472034
+358,Mahidol University,Thailand,Public,13.7644,100.526
+358,University of Victoria,Canada,Public,38.8999317,-77.0472034
+358,Virginia Polytechnic Institute (Virginia Tech),United States of America,Public,38.8999317,-77.0472034
+362,University of Chinese Academy of Sciences (UCAS),China (Mainland),Public,39.909852,116.252569
+362,University of Pretoria,South Africa,Public,-25.7563,28.231
+362,University of Tartu,Estonia,Public,59.3791019,28.1993708
+362,University of the Philippines,Philippines,Public,14.6547311,121.0586428
+366,University of Turku,Finland,Public,60.4562974,22.2851138
+367,RUDN University,Russian Federation,Public,55.651,37.505
+367,Sciences Po Paris,France,Public,55.651,37.505
+367,Universiti Brunei Darussalam (UBD),Brunei Darussalam,Public,4.972665,114.89397
+370,Daegu Gyeongbuk Institute of Science and Technology (DGIST),Republic of Korea,Public,35.7046875,128.4570625
+371,Bogazici University,Türkiye,Public,41.0082376,28.9783589
+371,National University of Sciences And Technology (NUST) Islamabad,Pakistan,Public,41.0082376,28.9783589
+371,Pontificia Universidad Javeriana,Colombia,Private not for Profit,4.6284578,-74.0649077
+374,Oxford Brookes University,United Kingdom,Public,51.7549518,-1.2242392
+375,Saint Petersburg State University,Russian Federation,Public,59.9402761,30.3010694
+375,Sharif University of Technology,Iran (Islamic Republic of),Public,35.7024,51.3516
+377,South China University of Technology,China (Mainland),Public,23.1507,113.347
+378,University of Saskatchewan,Canada,Public,52.1334003,-106.6313582
+379,University of Liege,Belgium,Public,40.8476606,14.2558038
+379,University of Naples - Federico II,Italy,Public,40.8476606,14.2558038
+381,The American University in Cairo,Egypt,Private not for Profit,30.043082,31.2365498
+381,University of East Anglia (UEA),United Kingdom,Public,52.6219215,1.2391761
+381,University of Luxembourg,Luxembourg,,49.6238,6.11102
+384,Northeastern University,United States of America,Private not for Profit,42.3398067,-71.0891717
+385,Brunel University of London,United Kingdom,Public,51.5321389,-0.4727493
+385,Gwangju Institute of Science and Technology (GIST),Republic of Korea,Public,35.226246396472,126.83998948086
+387,Flinders University,Australia,Public,-35.0208,138.573
+388,Beihang University (former BUAA),China (Mainland),Public,39.9082,116.398
+388,"Birkbeck College, University of London",United Kingdom,Public,39.9082,116.398
+390,National and Kapodistrian University of Athens,Greece,Public,37.9840798,23.7306452
+391,Abu Dhabi University,United Arab Emirates,Private for Profit,24.2057,55.6795
+392,Sejong University,Republic of Korea,Private not for Profit,37.5665,126.978
+392,"Southeast University, China",China (Mainland),Public,37.5665,126.978
+392,Universitat Politècnica de Catalunya,Spain,Public,37.5665,126.978
+395,Aston University,United Kingdom,Public,52.4868584,-1.8882174
+395,Ruhr-Universität Bochum,Germany,Public,51.4458,7.25948
+397,Lappeenranta-Lahti University of Technology LUT,Finland,Public,61.0649261,28.0939882
+397,University of Kent,United Kingdom,Public,51.2982666,1.0693526
+399,IPB University (aka Bogor Agricultural University),Indonesia,Public,-6.5561646,106.7263496
+400,Western Sydney University,Australia,Public,-33.9389,150.992
+401,Umeå University,Sweden,Public,63.8202,20.3008
+401,University of Granada,Spain,Public,37.1765,-3.59793
+401,University of Limerick,Ireland,Public,52.6732,-8.56971
+404,Sabanci University,Türkiye,Private not for Profit,40.8918169,29.3787483
+404,University of Florence,Italy,Public,43.7746,11.268
+406,Institut National des Sciences Appliquées de Lyon (INSA),France,Public,45.764043,4.835659
+407,Lincoln University,New Zealand,Public,-43.6434214,172.4677848
+408,University of Turin,Italy,Public,45.0663028,7.5890103
+409,Università  Cattolica del Sacro Cuore,Italy,Private not for Profit,45.4630175,9.1767245
+410,Auckland University of Technology,New Zealand,Public,-36.8528,174.767
+410,Dublin City University,Ireland,Public,53.3864,-6.25507
+410,Sunway University,Malaysia,Private not for Profit,3.06805,101.604
+410,University at Buffalo SUNY,United States of America,Public,42.8967987,-78.8683864
+410,University of Southern Queensland,Australia,Public,-27.6031451,151.9303644
+415,Bilkent University,Türkiye,Private not for Profit,39.8746147,32.7475962
+416,Czech Technical University In Prague,Czechia,Public,50.1016729,14.3907131
+416,Julius-Maximilians-Universität Würzburg,Germany,Public,49.7881813,9.93526
+416,Universität Mannheim,Germany,Public,49.4833,8.46393
+419,University of Aveiro,Portugal,Public,40.6313,-8.65749
+420,National Taipei University of Technology,Taiwan,Public,25.0911,121.56
+420,Université de Strasbourg,France,Public,48.5829,7.74375
+422,Universitat Politecnica de Valencia,Spain,Public,39.479773691326,-0.34578378098149
+423,Murdoch University,Australia,Public,-32.0636,115.835
+423,Tampere University,Finland,Public,61.4942347,23.7804113
+423,Università  degli Studi di Pavia,Italy,Public,-32.0636,115.835
+423,Washington State University,United States of America,Public,48.0065191,-122.204757
+427,Graz University of Technology,Austria,Public,47.069,15.4506
+428,Aix-Marseille University,France,Public,43.5338335,5.509247
+428,University of Dundee,United Kingdom,Public,56.4572033,-2.9782654
+430,Masaryk University,Czechia,Public,49.1986,16.6051
+430,Universitat de Valencia,Spain,Public,39.47937382987,-0.35980497351079
+430,Université de Montpellier,France,Public,43.6316206,3.8634485
+433,East China Normal University,China (Mainland),Public,31.2292,121.405
+433,Leibniz Universität Hannover,Germany,Public,31.2292,121.405
+435,National Taiwan Normal University,Taiwan,Public,25.030462213247,121.52728353174
+436,Prince Mohammad Bin Fahd University,Saudi Arabia,Private not for Profit,26.144497,50.090961
+436,Universitat Ramon Llull,Spain,Private not for Profit,41.411921,2.13122
+438,IE University,Spain,Private for Profit,40.9528852,-4.1188364
+439,National Sun Yat-sen University,Taiwan,Public,22.6251,120.309
+440,Ajman University,United Arab Emirates,Private not for Profit,25.4122,55.4347
+440,James Cook University,Australia,Public,-19.2603411,146.8160681
+440,Macau University of Science and Technology,"Macao SAR, China",Private not for Profit,22.15599,113.5695591
+440,"National Research University Higher School of Economics (HSE, Moscow)",Russian Federation,Public,25.4122,55.4347
+440,Universität Konstanz,Germany,Public,47.6894259,9.1868777
+440,"University of California, Riverside",United States of America,Public,33.975426,-117.3315931
+446,Vilnius University,Lithuania,Public,54.68271730119,25.286964807935
+447,Belarusian State University,Belarus,Public,53.838033246422,27.475875890738
+448,Universität Bayreuth,Germany,Public,49.9305,11.5887
+449,Iowa State University,United States of America,Public,42.0266187,-93.6464654
+450,Kazan Federal University,Russian Federation,Public,55.790724,49.1217741
+450,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",Brazil,Public,55.790724,49.1217741
+452,Johannes Gutenberg Universität Mainz,Germany,Public,49.9955,8.24388
+452,Shenzhen University,China (Mainland),Public,22.532689074474,113.9344621217
+452,Stony Brook University,United States of America,Public,49.9955,8.24388
+452,University of Cyprus,Cyprus,Public,49.9955,8.24388
+456,Amirkabir University of Technology,Iran (Islamic Republic of),Public,35.7043,51.4096
+456,University of Essex,United Kingdom,Public,35.7043,51.4096
+458,Colorado State University,United States of America,Public,40.5702631,-105.0903456
+458,Universidad Nacional de La Plata,Argentina,Public,40.5702631,-105.0903456
+458,"University of California, Santa Cruz",United States of America,Public,36.9776276,-122.0543109
+461,Jordan University of Science & Technology,Jordan,Public,32.4950392,35.9912257
+461,Novosibirsk State University,Russian Federation,Public,54.8436,83.0936
+461,Royal Holloway University of London,United Kingdom,Public,32.4950392,35.9912257
+461,Università Vita-Salute San Raffaele,Italy,Private not for Profit,45.5061,9.26577
+465,Anna University,India,Public,13.0111,80.2363
+465,Concordia University,Canada,Public,45.4972727,-73.5790238
+465,Shanghai University,China (Mainland),Public,31.2763,121.458
+465,University of Kansas,United States of America,Public,38.8991152,-94.724779
+469,Ben Gurion University of The Negev,Israel,Public,40.7345,-111.863
+469,Laval University,Canada,Public,40.7345,-111.863
+469,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),Uzbekistan,Public,40.7345,-111.863
+469,Universidad de Sevilla,Spain,Public,37.382,-5.99182
+473,Jilin University,China (Mainland),Public,43.7993,125.462
+473,Johannes Kepler University Linz,Austria,Public,48.3375,14.3228
+473,Pusan National University,Republic of Korea,Public,35.1796,129.076
+473,Università della Svizzera Italiana,Switzerland,Public,43.7993,125.462
+477,Moscow Institute of Physics and Technology State University,Russian Federation,Public,55.9296203,37.5158095
+477,Universität Potsdam,Germany,Public,52.4035,13.0122
+479,Chung-Ang University,Republic of Korea,Private not for Profit,37.5665,126.978
+480,Hiroshima University,Japan,Public,34.403,132.715
+480,University of Science and Technology Beijing,China (Mainland),Public,39.9904,116.362
+482,Dalian University of Technology,China (Mainland),Public,38.881115467405,121.52955023915
+482,Duy Tan University,Viet Nam,Private for Profit,16.0591623,108.2076488
+482,Kobe University,Japan,Public,34.7263,135.235
+485,Aristotle University of Thessaloniki,Greece,Public,40.6308283,22.9592224
+485,University of Trento,Italy,Public,46.0721,11.1011
+487,Edith Cowan University,Australia,Public,-31.752426,115.770962
+487,Technische Universität Bergakademie Freiberg,Germany,,50.9181602,13.3408434
+487,Warsaw University of Technology,Poland,Public,52.2204,21.0105
+490,Universidad de Santiago de Chile - USACH,Chile,Public,-33.4509046,-70.6797495
+491,Central South University,China (Mainland),Public,28.16552,112.93756
+491,Imam Abdulrahman Bin Faisal University (formerly University of Dammam),Saudi Arabia,Public,28.16552,112.93756
+491,Universiti Utara Malaysia (UUM),Malaysia,Public,6.44643,100.511
+494,Université de Bordeaux,France,Public,44.824999096769,-0.60549969259034
+494,University of Canberra,Australia,Public,-35.2384551,149.0844454
+496,Iran University of Science and Technology,Iran (Islamic Republic of),Public,35.7417,51.5068
+496,Justus-Liebig-Universität Gießen,Germany,Public,35.7417,51.5068
+498,University of Jyväskylä,Finland,Public,62.2377,25.7358
+499,Central Queensland University Australia (CQUniversity),Australia,Public,-23.3196477,150.5215756
+499,Northwestern Polytechnical University,China (Mainland),Public,34.240982,108.9291995
+499,Tomsk State University,Russian Federation,Public,56.4694,84.9475
+499,Universidad de Costa Rica,Costa Rica,Public,9.94104,-84.0489
+503,Shoolini University of Biotechnology and Management Sciences,India,Private not for Profit,30.8644,77.1187
+504,China Agricultural University,China (Mainland),Public,40.0239,116.281
+504,Chongqing University,China (Mainland),Public,29.5646,106.466
+504,Ewha Womans University,Republic of Korea,Private not for Profit,37.5665,126.978
+504,Hunan University,China (Mainland),Public,28.241,113.026
+504,University of Guelph,Canada,Public,43.5305188,-80.2262524
+509,China Medical University,Taiwan,Private not for Profit,24.1560757,120.6803671
+509,Institut Teknologi Sepuluh Nopember (ITS),Indonesia,Public,24.1560757,120.6803671
+509,INTI International University,Malaysia,Private for Profit,2.814463,101.7568138
+511,Ateneo de Manila University,Philippines,Private not for Profit,14.6391,121.078
+511,Singapore Management University,Singapore,Public,1.2962727,103.8501578
+511,SOAS University of London,United Kingdom,Public,51.52235,-0.129259
+511,University of Bradford,United Kingdom,Public,53.7914,-1.76414
+515,Lebanese University,Lebanon,Public,34.414805068444,35.830278396606
+515,Universitas Padjadjaran (UNPAD),Indonesia,Public,-6.9261321,107.7746881
+517,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,Argentina,Private not for Profit,-6.9261321,107.7746881
+517,University of Stirling,United Kingdom,Public,56.1492131,-3.9267942
+519,Kyungpook National University,Republic of Korea,Public,35.8888003,128.6102815
+519,Singapore University of Technology and Design,Singapore,,1.3401129,103.9628616
+519,Universidad Austral - Argentina,Argentina,Private not for Profit,56.1492131,-3.9267942
+519,University of Electronic Science and Technology of China,China (Mainland),Public,30.6586,104.065
+519,Ural Federal University,Russian Federation,Public,56.1492131,-3.9267942
+524,University of Huddersfield,United Kingdom,Public,53.6434,-1.77923
+525,The University of Georgia,United States of America,Public,33.947784335001,-83.37824672439
+526,Boston College,United States of America,Private not for Profit,42.3355488,-71.1684945
+526,Chiang Mai University,Thailand,Public,18.8079,98.9545
+526,University of Hull,United Kingdom,Public,53.7698,-0.368164
+526,University of Salamanca,Spain,Public,40.3871165,-5.7642172
+530,The Education University of Hong Kong,"Hong Kong SAR, China",,22.470655,114.194871
+530,Universität Bremen,Germany,Public,53.1069,8.85175
+530,University of Genoa,Italy,Public,44.4057,8.90936
+530,University of Iowa,United States of America,Public,41.6606795,-91.5355968
+534,University of Connecticut,United States of America,Public,41.3175768,-72.0637518
+535,King Khalid University,Saudi Arabia,Public,18.2477261,42.5610112
+535,Lebanese American University,Lebanon,Private not for Profit,33.8929019,35.4778571
+535,Prince Sultan University,Saudi Arabia,Private not for Profit,24.688,46.7224
+535,Universität Leipzig,Germany,Public,51.3383504,12.3634475
+535,University of Ljubljana,Slovenia,Public,46.0496,14.5042
+540,Jinan University (China),China (Mainland),Public,23.1281,113.348
+540,University of Utah,United States of America,Public,40.7714549,-111.8366215
+542,Ain Shams University,Egypt,Public,40.7714549,-111.8366215
+542,Universiti Teknologi MARA - UiTM,Malaysia,Public,3.06941,101.506
+542,University of Milano-Bicocca,Italy,Public,45.5184464,9.2131057
+542,University of the Punjab,Pakistan,Public,32.166312956967,74.212646484375
+546,Universität Ulm,Germany,Public,32.166312956967,74.212646484375
+546,University of Hawaii at Mañoa,United States of America,Public,32.166312956967,74.212646484375
+546,University of Windsor,Canada,Public,42.3043142,-83.066039
+549,Florida State University,United States of America,Public,30.4407249,-84.2906647
+550,Northumbria University at Newcastle,United Kingdom,Public,54.976831,-1.6092926
+551,Thammasat University,Thailand,Public,13.7565,100.5
+551,Universiti Tenaga Nasional (UNITEN),Malaysia,Private for Profit,2.9774,101.731
+553,Hitotsubashi University,Japan,Public,35.6944035,139.4454577
+553,University of Delaware,United States of America,Public,39.1980302,-75.5627461
+555,Lahore University of Management Sciences (LUMS),Pakistan,Private not for Profit,31.5530232,74.3819425
+556,Indian Institute of Technology Indore,India,Public,22.528700143354,75.923412297436
+556,University of Houston,United States of America,Public,29.7188527,-95.3410222
+558,Al Ain University,United Arab Emirates,Private not for Profit,24.240762,55.740842
+558,Coventry University,United Kingdom,Public,52.407501580186,-1.5037046788208
+558,Jawaharlal Nehru University,India,Public,28.5398035,77.1664047
+558,Sogang University,Republic of Korea,Private not for Profit,37.5509442,126.9410023
+558,University of Kwazulu-Natal,South Africa,Public,-29.8184,30.861
+563,Ajou University,Republic of Korea,Private not for Profit,37.2833633,127.0465105
+563,American University of the Middle East,Kuwait,Private for Profit,29.166897,48.1005185
+563,University of Debrecen,Hungary,Public,47.5540468,21.6215226
+566,Bangor University,United Kingdom,Public,53.2292005,-4.1288427
+566,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),India,Public,25.2623247,82.9893735
+566,Renmin (People’s) University of China,China (Mainland),Public,47.5540468,21.6215226
+566,Savitribai Phule Pune University,India,Public,18.5526,73.8262
+566,University of Minho,Portugal,Public,41.4506978,-8.2934876
+571,Colorado School of Mines,United States of America,Public,39.7510475,-105.2225708
+571,Hacettepe University,Türkiye,Public,39.8675202,32.734754
+571,Isfahan University of Technology,Iran (Islamic Republic of),,32.7188,51.5334
+571,Pontificia Universidade Católica do Rio de Janeiro (PUC - Rio),Brazil,Private not for Profit,41.4506978,-8.2934876
+575,Brno University of Technology,Czechia,Public,49.1911,16.6114
+575,Chandigarh University,India,Private not for Profit,30.768812419472,76.575777973022
+575,Universität Jena,Germany,Public,50.9298,11.5893
+578,Universidad Adolfo Ibáñez,Chile,Private not for Profit,-33.48844,-70.5183125
+578,Universiti Teknologi Brunei,Brunei Darussalam,Public,4.9773576,114.8999212
+578,University of Tabriz,Iran (Islamic Republic of),Public,38.0576,46.3335
+581,Universidad Pontificia Comillas,Spain,Private not for Profit,38.0576,46.3335
+582,Florida International University,United States of America,Public,25.7567674,-80.3820014
+582,University of Iceland,Iceland,,64.1265206,-21.8174393
+584,Charles Darwin University,Australia,Public,-12.3717852,130.8689199
+584,Eotvos Lorand University,Hungary,Public,64.1265206,-21.8174393
+584,University of Dhaka,Bangladesh,Public,23.7315492,90.3924947
+587,American University,United States of America,Private not for Profit,38.9379737,-77.0890599
+587,National Central University,Taiwan,Public,24.9722,121.205
+587,Université Claude Bernard Lyon 1,France,Public,45.7416183,4.8806119
+587,Université Paul Sabatier Toulouse III,France,Public,43.6044,1.44295
+591,American University of Ras Al Khaimah ( AURAK ),United Arab Emirates,Public,43.6044,1.44295
+591,Bond University,Australia,Private not for Profit,-28.074,153.416
+591,Illinois Institute of Technology,United States of America,Private not for Profit,41.8313967,-87.6272292
+591,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russian Federation,Public,55.6498682,37.6644199
+595,Universidade Federal de Minas Gerais,Brazil,Public,55.6498682,37.6644199
+595,Zayed University,United Arab Emirates,Public,24.2498686,54.6725122
+597,Asia Pacific University of Technology and Innovation (APU) Malaysia,Malaysia,Private for Profit,3.0555634830594,101.70029776975
+597,Hasselt University,Belgium,Public,50.9284716,5.3887681
+597,Management and Science University - MSU Malaysia,Malaysia,Private for Profit,24.2498686,54.6725122
+597,Taipei Medical University,Taiwan,Private not for Profit,24.2498686,54.6725122
+597,Tulane University,United States of America,Private not for Profit,29.9354099,-90.122739
+597,University of Szeged,Hungary,Private not for Profit,46.249733,20.1459
+597,University of Texas at Dallas,United States of America,Public,32.985547840374,-96.74997459472
+604,Canadian University of Dubai,United Arab Emirates,Private for Profit,32.985547840374,-96.74997459472
+604,National Chengchi University,Taiwan,Public,25.0299588,121.5280328
+604,University of Eastern Finland,Finland,Public,62.5997331,29.7763289
+607,University of Siena,Italy,Public,43.3191251,11.3327841
+607,University of Tennessee,United States of America,Public,62.5997331,29.7763289
+609,Nottingham Trent University,United Kingdom,Public,52.9581371,-1.1542327
+609,Peter the Great St.Petersburg Polytechnic University,Russian Federation,Public,43.3191251,11.3327841
+609,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,Public,3.6650076,103.115102
+609,University of Ulster,United Kingdom,Public,43.3191251,11.3327841
+613,Applied Science University - Bahrain,Bahrain,Private not for Profit,26.1436853,50.6028899
+613,City University of New York,United States of America,Public,40.7507849,-73.9736235
+613,International Islamic University Malaysia (IIUM),Malaysia,Public,3.727875,103.064529
+613,Universidad de Concepción,Chile,Private not for Profit,-36.82960532537,-73.035268809509
+613,University of Plymouth,United Kingdom,Public,50.3723681,-4.1385538
+618,Christian-Albrechts-Universität zu Kiel,Germany,Public,50.3723681,-4.1385538
+618,Dongguk University,Republic of Korea,Private not for Profit,37.558254,127.00015
+618,Saint Joseph University of Beirut (USJ),Lebanon,Private not for Profit,35.5121135,33.8804208
+618,Zhengzhou University,China (Mainland),Public,34.7472,113.637
+622,Umm Al-Qura University,Saudi Arabia,Public,21.4089118,39.8656891
+622,University of New Brunswick,Canada,Public,45.9479372,-66.6411038
+624,Diponegoro University,Indonesia,Public,-7.0535522,110.4379643
+624,Oregon State University,United States of America,Public,45.519208,-122.6780605
+624,Universidad del Pais Vasco,Spain,Public,45.9479372,-66.6411038
+624,Yeshiva University,United States of America,Private not for Profit,31.768379,35.184947
+628,Istanbul University,Türkiye,Public,41.0139849,28.9641766
+628,Kazakh National Pedagogical University Abai,Kazakhstan,Public,31.768379,35.184947
+628,Missouri University of Science and Technology,United States of America,Public,37.9536,-91.777
+628,National Chung Hsing University,Taiwan,Public,24.1196,120.66
+628,Universidade de Santiago de Compostela,Spain,Public,42.8885225,-8.5449726
+628,University of Crete,Greece,Public,35.3387352,25.1442126
+628,University of South Carolina,United States of America,Public,33.9963052,-81.027157
+635,Tallinn University of Technology,Estonia,Public,33.9963052,-81.027157
+635,Universität des Saarlandes,Germany,Public,33.9963052,-81.027157
+635,University of Portsmouth,United Kingdom,Public,50.7954413,-1.092611
+638,"Lincoln University College, Malaysia",Malaysia,Private for Profit,49.2550284,7.040975
+638,Southern Cross University,Australia,Public,-28.817893382745,153.29780351957
+638,Universidad de Zaragoza,Spain,Public,42.1426592,-0.4063333
+638,"University of Chemistry and Technology, Prague",Czechia,Public,50.1033658,14.3898869
+642,University of Fribourg,Switzerland,Public,50.1033658,14.3898869
+643,Abo Akademi University,Finland,Public,60.4509869,22.2776003
+643,Inha University,Republic of Korea,Private not for Profit,37.4563,126.705
+643,Libera Universita' di Bolzano,Italy,Public,46.8063,7.15174
+643,Manchester Metropolitan University,United Kingdom,Public,53.47101089259,-2.2385854550171
+643,University of Manitoba,Canada,Public,49.904522,-97.1604833
+648,King Faisal University,Saudi Arabia,Public,25.3395054,49.5972342
+648,"University of Tromso, The Arctic University of Norway",Norway,Public,49.904522,-97.1604833
+650,MGIMO University,Russian Federation,Public,55.6772,37.4944
+650,Paris Lodron University of Salzburg,Austria,Public,47.8051,13.0381
+650,Universidad de la República (UdelaR),Uruguay,Public,69.58,23.17
+650,University of Brescia,Italy,Public,45.5378361,10.2172959
+654,China University of Mining and Technology,China (Mainland),Public,34.2598,117.191
+654,De La Salle University,Philippines,Private not for Profit,14.5653,120.993
+654,Konkuk University,Republic of Korea,Private not for Profit,37.5419717,127.0767285
+654,Université de Lille,France,Public,,
+654,"University of Agriculture, Faisalabad",Pakistan,Public,31.3907689,72.9919111
+654,University of South Florida,United States of America,Public,28.060764552244,-82.414154236523
+660,Bar-Ilan University,Israel,Public,32.962145353951,35.497909784317
+660,Ca' Foscari University of Venice,Italy,Public,45.434508821408,12.326574325562
+660,"Kingston University, London",United Kingdom,Public,51.4032364,-0.3034851
+660,Memorial University of Newfoundland,Canada,Public,48.9397149,-57.9363895
+664,COMSATS University Islamabad,Pakistan,Public,33.7712872,72.7554104
+664,Indian Institute of Technology Hyderabad (IITH),India,Public,17.5947033,78.1231054
+664,University of Mumbai,India,Public,19.074447,72.864102
+664,University of Oklahoma,United States of America,Public,35.2085041,-97.4456811
+668,Birla Institute of Technology and Science,India,Private not for Profit,35.2085041,-97.4456811
+668,Chang Gung University,Taiwan,Private not for Profit,25.033424,121.387488
+668,Karl-Franzens-Universität Graz,Austria,Public,35.2085041,-97.4456811
+668,Lehigh University,United States of America,Private not for Profit,40.6080383,-75.3789708
+668,Palacký University in Olomouc,Czechia,Public,35.2085041,-97.4456811
+673,East China University of Science and Technology,China (Mainland),Public,31.0536,121.751
+673,Stevens Institute of Technology,United States of America,Private not for Profit,40.74485,-74.023957
+673,Technische Universität Dortmund,Germany,Public,49.5954268,17.2600153
+676,Beirut Arab University,Lebanon,Private not for Profit,33.8728994,35.4969011
+676,Jadavpur University,India,Public,22.4936812,88.3692655
+678,American University in Dubai,United Arab Emirates,Private for Profit,25.0908635,55.1564392
+678,University of Haifa,Israel,Public,32.7938,35.0282
+680,HUFS - Hankuk (Korea) University of Foreign Studies,Republic of Korea,Private not for Profit,37.5976171,127.0582192
+680,Nanjing University of Aeronautics and Astronautics,China (Mainland),Public,32.0584,118.796
+680,Ritsumeikan University,Japan,Private not for Profit,35.0092319,135.7422032
+680,University of Brawijaya,Indonesia,Public,32.7938,35.0282
+684,Comenius University Bratislava,Slovakia,Public,48.1411987,17.1158973
+684,Ton Duc Thang University,Viet Nam,Public,10.7455781,106.7010799
+686,China University of Petroleum,China (Mainland),Public,10.7455781,106.7010799
+686,Cyprus University of Technology,Cyprus,Public,34.7071301,33.0226174
+688,Baku State University,Azerbaijan,Public,40.3772729,49.8116509
+688,Tomsk Polytechnic University,Russian Federation,Public,34.7071301,33.0226174
+688,Université Côte d’Azur,France,Public,34.7071301,33.0226174
+691,Eastern Mediterranean University,Northern Cyprus,Public,35.1423793,33.9116479
+691,Universidade Federal do Rio Grande Do Sul,Brazil,Public,-30.0338411,-51.2185702
+691,Universität Regensburg,Germany,Public,48.9882219,12.1020638
+691,"Vellore Institute of Technology (VIT), Vellore, India",India,Private not for Profit,12.971743,79.1594165
+695,Rensselaer Polytechnic Institute,United States of America,Private not for Profit,42.729185,-73.6790385
+696,Symbiosis International (Deemed University),India,Private not for Profit,18.5235122,73.8295213
+696,TUHH Hamburg University of Technology,Germany,,53.4635575,9.9696314
+697,Ankara Üniversitesi,Türkiye,Public,39.927777,32.873518
+697,Beijing University of Chemical Technology,China (Mainland),Public,39.9428,116.304
+697,Kazakh National Agrarian University,Kazakhstan,Public,18.5235122,73.8295213
+697,Tokyo Medical and Dental University,Japan,Public,18.5235122,73.8295213
+697,Universidad de Alcalá,Spain,Public,18.5235122,73.8295213
+697,University of Klagenfurt,Austria,Public,46.6159,14.265
+697,"University of Missouri, Columbia",United States of America,Public,38.9452394,-92.3291315
+701-710,Jeonbuk National University (formerly known as Chonbuk National University),Republic of Korea,Public,43.2392433,76.8932086
+701-710,Kasetsart University,Thailand,Public,13.8432,100.571
+701-710,"Lingnan University, Hong Kong","Hong Kong SAR, China",Public,22.410201220192,113.98322816456
+701-710,Nanjing University of Science and Technology,China (Mainland),Public,32.2072,118.722
+701-710,Shiraz University,Iran (Islamic Republic of),Public,29.6406,52.5245
+701-710,Universidad Panamericana (UP),Mexico,Private not for Profit,19.372925,-99.1839134
+701-710,University of Central Florida,United States of America,Public,28.6030138,-81.1986503
+701-710,University of Zagreb,Croatia,Public,45.8107028,15.9698027
+711-720,Asia University Taiwan,Taiwan,Private for Profit,24.04975599723,120.68618774414
+711-720,Budapest University of Technology and Economics,Hungary,Public,47.4816,19.0559

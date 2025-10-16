@@ -99,7 +99,21 @@ class QSScraper:
             return self.university_urls[csv_name]
 
         urls_list = list(self.university_urls.items())
-        rank = int(rank)  # Convert rank to integer
+
+        # Handle range ranks like "701-710" by extracting the first number
+        if isinstance(rank, str) and "-" in rank:
+            try:
+                rank = int(rank.split("-")[0])
+            except (ValueError, IndexError):
+                logger.warning(f"  Could not parse rank range: {rank}")
+                return None
+        else:
+            try:
+                rank = int(rank)
+            except ValueError:
+                logger.warning(f"  Could not convert rank to int: {rank}")
+                return None
+
         if 0 <= rank - 1 < len(urls_list):
             name, url = urls_list[rank - 1]
             logger.debug(f"  Using rank-based match: '{csv_name}' -> '{name}'")
@@ -436,7 +450,7 @@ class QSScraper:
             lat, lng = self.extract_coordinates()
 
             if lat is not None and lng is not None:
-                # save to CSV
+                # save to CSV with coordinates
                 if self.save_to_csv(rank, name, region, status, lat, lng):
                     self._save_progress(name, url, lat, lng)
                     self.stats["success"] += 1
@@ -444,8 +458,14 @@ class QSScraper:
                 else:
                     self.stats["failed"] += 1
             else:
-                self.stats["failed"] += 1
-                logger.warning(f"  FAILED: No coordinates found")
+                # save to CSV with empty coordinates
+                logger.warning(f"  No coordinates found")
+                if self.save_to_csv(rank, name, region, status, "", ""):
+                    self._save_progress(name, url, None, None)
+                    self.stats["failed"] += 1
+                    logger.info(f"  SAVED WITH UNKNOWN COORDINATES")
+                else:
+                    self.stats["failed"] += 1
 
             self.stats["processed"] += 1
 
