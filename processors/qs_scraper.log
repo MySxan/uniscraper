@@ -1,0 +1,83 @@
+2025-10-16 04:55:57,578 - INFO - WebDriver initialized
+2025-10-16 04:55:57,578 - INFO - ================================================================================
+2025-10-16 04:55:57,578 - INFO - QS University Ranking Scraper
+2025-10-16 04:55:57,578 - INFO - ================================================================================
+2025-10-16 04:55:57,578 - INFO - 
+Using cached URLs (1503 universities)
+2025-10-16 04:55:57,582 - INFO - 
+Loaded 1503 universities from CSV
+2025-10-16 04:55:57,582 - INFO - ================================================================================
+2025-10-16 04:55:57,582 - INFO - Phase 2: Scraping Coordinates
+2025-10-16 04:55:57,582 - INFO - ================================================================================
+2025-10-16 04:55:57,582 - INFO - [1/1503] SKIP (cached): Massachusetts Institute of Technology (MIT)
+2025-10-16 04:55:57,582 - INFO - [2/1503] SKIP (cached): Imperial College London
+2025-10-16 04:55:57,583 - INFO - [3/1503] SKIP (cached): Stanford University
+2025-10-16 04:55:57,583 - INFO - [4/1503] SKIP (cached): University of Oxford
+2025-10-16 04:55:57,583 - INFO - [5/1503] SKIP (cached): Harvard University
+2025-10-16 04:55:57,583 - INFO - [6/1503] SKIP (cached): University of Cambridge
+2025-10-16 04:55:57,583 - INFO - [7/1503] SKIP (cached): ETH Zurich (Swiss Federal Institute of Technology)
+2025-10-16 04:55:57,583 - INFO - [8/1503] SKIP (cached): National University of Singapore (NUS)
+2025-10-16 04:55:57,583 - INFO - [9/1503] SKIP (cached): UCL (University College London)
+2025-10-16 04:55:57,583 - INFO - [10/1503] SKIP (cached): California Institute of Technology (Caltech)
+2025-10-16 04:55:57,583 - INFO - [11/1503] SKIP (cached): The University of Hong Kong
+2025-10-16 04:55:57,583 - INFO - [12/1503] SKIP (cached): Nanyang Technological University, Singapore (NTU Singapore)
+2025-10-16 04:55:57,584 - INFO - [13/1503] SKIP (cached): University of Chicago
+2025-10-16 04:55:57,584 - INFO - [14/1503] SKIP (cached): Peking University
+2025-10-16 04:55:57,584 - INFO - [15/1503] SKIP (cached): University of Pennsylvania
+2025-10-16 04:55:57,584 - INFO - [16/1503] SKIP (cached): Cornell University
+2025-10-16 04:55:57,584 - INFO - [17/1503] SKIP (cached): Tsinghua University
+2025-10-16 04:55:57,584 - INFO - [18/1503] SKIP (cached): University of California, Berkeley (UCB)
+2025-10-16 04:55:57,584 - INFO - [19/1503] SKIP (cached): The University of Melbourne
+2025-10-16 04:55:57,584 - INFO - [20/1503] SKIP (cached): The University of New South Wales
+2025-10-16 04:55:57,584 - INFO - [21/1503] SKIP (cached): Yale University
+2025-10-16 04:55:57,585 - INFO - [22/1503] SKIP (cached): École Polytechnique Fédérale de Lausanne
+2025-10-16 04:55:57,585 - INFO - [23/1503] SKIP (cached): Technical University of Munich
+2025-10-16 04:55:57,585 - INFO - [24/1503] SKIP (cached): Johns Hopkins University
+2025-10-16 04:55:57,585 - INFO - [25/1503] SKIP (cached): Princeton University
+2025-10-16 04:55:57,585 - INFO - [26/1503] SKIP (cached): The University of Sydney
+2025-10-16 04:55:57,585 - INFO - [27/1503] SKIP (cached): McGill University
+2025-10-16 04:55:57,585 - INFO - [28/1503] SKIP (cached): PSL University
+2025-10-16 04:55:57,585 - INFO - [29/1503] SKIP (cached): University of Toronto
+2025-10-16 04:55:57,586 - INFO - [30/1503] SKIP (cached): Fudan University
+2025-10-16 04:55:57,586 - INFO - [31/1503] SKIP (cached): King's College London (KCL)
+2025-10-16 04:55:57,586 - INFO - [32/1503] SKIP (cached): Australian National University
+2025-10-16 04:55:57,586 - INFO - [33/1503] SKIP (cached): The Chinese University of Hong Kong
+2025-10-16 04:55:57,586 - INFO - [34/1503] SKIP (cached): University of Edinburgh
+2025-10-16 04:55:57,586 - INFO - [35/1503] SKIP (cached): The University of Manchester
+2025-10-16 04:55:57,586 - INFO - [36/1503] SKIP (cached): Monash University
+2025-10-16 04:55:57,586 - INFO - [37/1503] SKIP (cached): The University of Tokyo
+2025-10-16 04:55:57,586 - INFO - [38/1503] SKIP (cached): Columbia University
+2025-10-16 04:55:57,586 - INFO - [39/1503] SKIP (cached): Seoul National University
+2025-10-16 04:55:57,587 - INFO - [40/1503] SKIP (cached): University of British Columbia
+2025-10-16 04:55:57,587 - INFO - [41/1503] SKIP (cached): Institut Polytechnique de Paris
+2025-10-16 04:55:57,587 - INFO - [42/1503] SKIP (cached): Northwestern University
+2025-10-16 04:55:57,587 - INFO - [43/1503] SKIP (cached): The University of Queensland
+2025-10-16 04:55:57,587 - INFO - [44/1503] SKIP (cached): The Hong Kong University of Science and Technology
+2025-10-16 04:55:57,587 - INFO - [45/1503] SKIP (cached): University of Michigan-Ann Arbor
+2025-10-16 04:55:57,587 - INFO - [46/1503] SKIP (cached): University of California, Los Angeles (UCLA)
+2025-10-16 04:55:57,587 - INFO - [47/1503] SKIP (cached): Delft University of Technology
+2025-10-16 04:55:57,588 - INFO - [48/1503] SKIP (cached): Shanghai Jiao Tong University
+2025-10-16 04:55:57,588 - INFO - [49/1503] SKIP (cached): Zhejiang University
+2025-10-16 04:55:57,588 - INFO - [50/1503] SKIP (cached): Yonsei University
+2025-10-16 04:55:57,588 - INFO - [51/1503] SKIP (cached): University of Bristol
+2025-10-16 04:55:57,588 - INFO - [52/1503] SKIP (cached): Carnegie Mellon University
+2025-10-16 04:55:57,588 - INFO - [53/1503] SKIP (cached): The University of Amsterdam
+2025-10-16 04:55:57,588 - INFO - [54/1503] SKIP (cached): The Hong Kong Polytechnic University
+2025-10-16 04:55:57,588 - INFO - [55/1503] SKIP (cached): New York University (NYU)
+2025-10-16 04:55:57,588 - INFO - [56/1503] SKIP (cached): London School of Economics and Political Science (LSE)
+2025-10-16 04:55:57,588 - INFO - [57/1503] SKIP (cached): Kyoto University
+2025-10-16 04:55:57,589 - INFO - [58/1503] SKIP (cached): Ludwig-Maximilians-Universität München
+2025-10-16 04:55:57,589 - INFO - [59/1503] SKIP (cached): Universiti Malaya (UM)
+2025-10-16 04:55:57,589 - INFO - [60/1503] SKIP (cached): KU Leuven
+2025-10-16 04:55:57,589 - INFO - [61/1503] SKIP (cached): Korea University
+2025-10-16 04:55:57,589 - INFO - [62/1503] SKIP (cached): Duke University
+2025-10-16 04:55:57,589 - INFO - [63/1503] SKIP (cached): City University of Hong Kong
+2025-10-16 04:55:57,589 - INFO - [64/1503] SKIP (cached): National Taiwan University (NTU)
+2025-10-16 04:55:57,589 - INFO - 
+[65/1503] Rank 65 - The University of Auckland
+2025-10-16 04:56:01,928 - INFO -   [Method 1] Coordinates: -36.851756452025, 174.76899632544
+2025-10-16 04:56:01,931 - INFO -   Saved to CSV
+2025-10-16 04:56:01,932 - INFO -   SUCCESS: -36.851756, 174.768996
+2025-10-16 04:56:04,934 - INFO - 
+[66/1503] Rank 66 - University of California, San Diego (UCSD)
+2025-10-16 04:56:05,286 - INFO - Interrupted by user

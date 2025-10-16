@@ -25,7 +25,6 @@ python merge_uni.py
 
 **Output**: `data/merged_universities.csv`
 
-
 ### 3. Generate Categorized Data
 
 ```bash
@@ -35,8 +34,6 @@ python filter_non_china.py
 # Generate universities with unknown location
 python filter_unknown.py
 ```
-
-
 
 ### merged_universities.csv
 
