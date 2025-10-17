@@ -5,30 +5,27 @@ Multi-source web scraper for collecting university ranking data and geographic c
 ## Structure
 
 ```
-qs_url_scraper.py         # Extract URLs from QS rankings
-qs_coordinate_scraper.py  # Extract coordinates for QS universities
-qs_processor.py           # Process QS Excel data to CSV
-the_processor.py          # Process THE rankings
-usnews_lac_processor.py   # Process US News LAC rankings
-.qs_university_urls.json  # Cached QS university URLs
+/processors
+    qs_url_scraper.py         # Extract URLs from QS rankings
+    qs_coordinate_scraper.py  # Extract coordinates for QS universities
+    qs_processor.py           # Process QS Excel data to CSV
+    the_processor.py          # Process THE rankings
+    usnews_lac_processor.py   # Process US News LAC rankings
+    .qs_university_urls.json  # Cached QS university URLs
+/raw                          # Raw data files
+/output                       # Output CSV files
+/old                          # Old versions of scripts
+requirements.txt              # Python dependencies
+README.md                  
 ```
 
 ## Data Sources
 
-### QS World University Rankings 2026
+- QS World University Rankings 2026 <https://www.topuniversities.com/world-university-rankings>
 
-- **Website**: <https://www.topuniversities.com/world-university-rankings>
-- **Fields**: Rank, Name, Country/Territory, Status (Public/Private)
+- THE World University Rankings 2025 <https://www.timeshighereducation.com/>
 
-### THE World University Rankings 2025
-
-- **Website**: <https://www.timeshighereducation.com/>
-- **Data**: World rankings
-
-### US News Best National Liberal Arts Colleges Rankings
-
-- **Website**: <https://www.usnews.com/>
-- **Data**: Latin America and Caribbean region rankings
+- US News Best National Liberal Arts Colleges Rankings <https://www.usnews.com/>
 
 ## Setup
 
