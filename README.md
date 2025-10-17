@@ -1,80 +1,129 @@
-# University Scrapers Project
+# University Rankings Data Scraper
 
-This project scrapes data from multiple university ranking websites, merges and deduplicates the data, and generates categorized CSV files.
+Multi-source web scraper for collecting university ranking data and geographic coordinates from various ranking platforms.
+
+## Structure
+
+```
+qs_url_scraper.py         # Extract URLs from QS rankings
+qs_coordinate_scraper.py  # Extract coordinates for QS universities
+qs_processor.py           # Process QS Excel data to CSV
+the_processor.py          # Process THE rankings
+usnews_lac_processor.py   # Process US News LAC rankings
+.qs_university_urls.json  # Cached QS university URLs
+```
+
+## Data Sources
+
+### QS World University Rankings 2026
+
+- **Website**: <https://www.topuniversities.com/world-university-rankings>
+- **Fields**: Rank, Name, Country/Territory, Status (Public/Private)
+
+### THE World University Rankings 2025
+
+- **Website**: <https://www.timeshighereducation.com/>
+- **Data**: World rankings
+
+### US News Best National Liberal Arts Colleges Rankings
+
+- **Website**: <https://www.usnews.com/>
+- **Data**: Latin America and Caribbean region rankings
+
+## Setup
+
+### Prerequisites
+
+- Python 3.8+
+- Chrome browser
+- ChromeDriver
+
+### Installation
+
+```bash
+# Create virtual environment
+python -m venv .venv
+
+# Activate virtual environment
+# On Windows:
+.venv\Scripts\activate
+# On macOS/Linux:
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
 
 ## Usage
 
-### 1. Run Web Scrapers
+### 1. Process QS Rankings Data
 
 ```bash
-# Navigate to scrapers directory
-cd scrapers
+cd processors
 
-# Run individual scrapers
-python shanghai_arwu_scraper.py
-python THE_scraper.py
-python uniranks_scraper.py
+# Convert Excel to CSV with country/region data
+python qs_processor.py
+# Output: output/QS_2026_Rankings.csv
+
+# Extract university URLs from ranking website
+python qs_url_scraper.py
+# Output: Cached in .qs_university_urls.json
+
+# Extract coordinates for each university
+python qs_coordinate_scraper.py
+# Output: output/QS_2026_Rankings_with_Coordinates.csv
 ```
 
-### 2. Merge Data
+### 2. Process THE Rankings
 
 ```bash
-cd scripts
-python merge_uni.py
+python the_processor.py
 ```
 
-**Output**: `data/merged_universities.csv`
-
-### 3. Generate Categorized Data
+### 3. Process US News LAC Rankings
 
 ```bash
-# Generate non-China region universities
-python filter_non_china.py
-
-# Generate universities with unknown location
-python filter_unknown.py
+python usnews_lac_processor.py
 ```
 
-### merged_universities.csv
+## Output Files
 
-Contains complete information for all universities:
+### QS_2026_Rankings.csv
 
-- `name`: University name
-- `country`: Country/Region
-- `sources`: Data sources
+- `Rank`: University ranking position
+- `Name`: University name
+- `Region`: Country or Territory
+- `Status`: Public or Private institution
 
-### universities_non_china.csv
+### QS_2026_Rankings_with_Coordinates.csv
 
-Contains only non-China region universities (excludes China, Hong Kong, Macau, Taiwan):
+- `Rank`: University ranking
+- `Name`: University name
+- `Region`: Country or Territory
+- `Status`: Institution type
+- `Latitude`: Geographic latitude (empty if not found)
+- `Longitude`: Geographic longitude (empty if not found)
 
-- `name`: University name
-- `country`: Country/Region
+## Logging
 
-### universities_unknown.csv
+Detailed logs are saved to:
 
-Contains only universities with unknown location:
+- `processors/qs_scraper.log` - Main scraper operations
+- `processors/qs_scraper_parallel.log` - Parallel processing logs
 
-- `name`: University name
-- `country`: "Unknown"
+Logs include:
 
-## Key Features
-
-### Name Normalization
-
-The merge script includes advanced name normalization to improve deduplication accuracy:
-
-- **Lowercase conversion**: Standardizes all names to lowercase
-- **Accent removal**: Converts accented characters (é→e, ü→u, ã→a, ô→o, ç→c)
-- **Special character removal**: Removes commas, parentheses, hyphens, etc.
-- **Whitespace normalization**: Merges multiple spaces into single space
-
-## Notes
-
-1. Web scrapers require Chrome browser and ChromeDriver
-2. Fuzzy matching threshold is set to 90%, adjustable in `merge_uni.py`
-3. All paths use relative paths, ensure scripts are run from the `scripts/` directory
+- URL extraction progress
+- Coordinate extraction success/failure
+- WebDriver session management
+- Data processing statistics
 
 ## Disclaimer
 
-This project is for educational and research purposes only.
-It scrapes only publicly available data from <www.shanghairanking.com>, <www.timeshighereducation.com>, and <www.uniranks.com>.
+This project is for educational and research purposes only. It scrapes only publicly available data from:
+
+- <https://www.topuniversities.com/>
+- <https://www.timeshighereducation.com/>
+- <https://www.usnews.com/>
+
+Please respect website terms of service and robots.txt when using this scraper.

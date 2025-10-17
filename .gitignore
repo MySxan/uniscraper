@@ -5,6 +5,8 @@ __pycache__/
 *.pyd
 .Python
 
+*.log
+
 old/data/*.csv
 
 .DS_Store
