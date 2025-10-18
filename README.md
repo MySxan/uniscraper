@@ -23,9 +23,9 @@ README.md
 
 - QS World University Rankings 2026 <https://www.topuniversities.com/world-university-rankings>
 
-- THE World University Rankings 2025 <https://www.timeshighereducation.com/>
+- THE World University Rankings 2025 <https://www.timeshighereducation.com/world-university-rankings>
 
-- US News Best National Liberal Arts Colleges Rankings <https://www.usnews.com/>
+- US News Best National Liberal Arts Colleges Rankings <https://www.usnews.com/](https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges>
 
 ## Setup
 
@@ -103,13 +103,7 @@ python usnews_lac_processor.py
 
 ## Logging
 
-Detailed logs are saved to:
-
-- `processors/qs_scraper.log` - Main scraper operations
-- `processors/qs_scraper_parallel.log` - Parallel processing logs
-
-Logs include:
-
+Detailed logs are saved to: `processors/qs_scraper_parallel.log` - Parallel processing logs
 - URL extraction progress
 - Coordinate extraction success/failure
 - WebDriver session management
