@@ -24,9 +24,9 @@ README.md
 
 - QS World University Rankings 2026 <https://www.topuniversities.com/world-university-rankings>
 
-- THE World University Rankings 2025 <https://www.timeshighereducation.com/>
+- THE World University Rankings 2025 <https://www.timeshighereducation.com/world-university-rankings>
 
-- US News Best National Liberal Arts Colleges Rankings <https://www.usnews.com/>
+- US News Best National Liberal Arts Colleges Rankings <https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges>
 
 ## Setup
 
