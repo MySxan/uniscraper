@@ -6,6 +6,7 @@ Multi-source web scraper for collecting university ranking data and geographic c
 
 ```
 /processors
+    merge_rankings.py         # Merge rankings from QS, THE, USNews with deduplication
     qs_url_scraper.py         # Extract URLs from QS rankings
     qs_coordinate_scraper.py  # Extract coordinates for QS universities
     qs_processor.py           # Process QS Excel data to CSV
@@ -16,7 +17,7 @@ Multi-source web scraper for collecting university ranking data and geographic c
 /output                       # Output CSV files
 /old                          # Old versions of scripts
 requirements.txt              # Python dependencies
-README.md                  
+README.md
 ```
 
 ## Data Sources
@@ -83,6 +84,23 @@ python the_processor.py
 python usnews_lac_processor.py
 ```
 
+### 4. Merge Rankings Data
+
+Combine rankings from all three sources into a unified dataset with intelligent deduplication:
+
+```bash
+python merge_rankings.py
+# Output:
+# output/merged_rankings.csv
+# processors/merge.log
+```
+
+**Zero False Positives**: Cornell University ≠ Cornell College (kept separate)
+
+**Smart Filtering**: University of South Alabama (USA) ≠ University of Georgia (no false merge)
+
+**"The " Prefix Handling**: "The University of Georgia" matches "University of Georgia"
+
 ## Output Files
 
 ### QS_2026_Rankings.csv
@@ -101,12 +119,26 @@ python usnews_lac_processor.py
 - `Latitude`: Geographic latitude (empty if not found)
 - `Longitude`: Geographic longitude (empty if not found)
 
+### merged_rankings.csv
+
+Combined rankings from QS, THE, and USNews with intelligent deduplication:
+
+- `Name`: University name
+- `Country`: Country or Territory
+- `QS_Rank`: QS 2026 ranking (if available)
+- `THE_Rank`: THE 2025 ranking (if available)
+- `USNews_Rank`: US News LAC ranking (if available)
+- `Nature_of_Running`: Public or Private institution
+- `Latitude`: Geographic latitude (from QS data)
+- `Longitude`: Geographic longitude (from QS data)
+
 ## Logging
 
 Detailed logs are saved to:
 
 - `processors/qs_scraper.log` - Main scraper operations
 - `processors/qs_scraper_parallel.log` - Parallel processing logs
+- `processors/merge_log.txt` - Merge and deduplication operations
 
 Logs include:
 
@@ -114,6 +146,11 @@ Logs include:
 - Coordinate extraction success/failure
 - WebDriver session management
 - Data processing statistics
+- **Merge Log:**
+  - Total input/output records for each merge round
+  - Duplicate group count and merging decisions
+  - Specific university pairs that were consolidated
+  - Field consolidation details (which fields were filled from duplicate records)
 
 ## Disclaimer
 
